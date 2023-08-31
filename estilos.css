@@ -1,0 +1,39 @@
+body {
+   
+    background-color: #8bf3dc;
+}
+
+.container {
+
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: #f9f9f9;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #333;
+}
+
+form {
+    margin-top: 20px;
+}
+
+p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.image-container {
+    
+    padding: 30px;
+    display: inline-block;
+}
+
+.image-container img {
+    max-width: 30%;
+    height: auto;
+}
